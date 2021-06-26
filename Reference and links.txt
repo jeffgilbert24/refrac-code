@@ -1,4 +1,5 @@
 The reference that I use for this project was a text book, Web Programming with HTML, CSS, Bootstrap, JavaScript
 jQuery,PHP, and MySQL. Larry Sanchez, First Edition, 2017.
 https://jeffgilbert24.github.io/refrac-code/  is the web page.
-https://github.com/jeffgilbert24/refrac-code.git is the repository.
+https://github.com/jeffgilbert24/refrac-code.git is the repository.\
+
